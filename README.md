@@ -9,27 +9,28 @@ Over the past year, I've built numerous practical projects and tackled lots of c
 
 Take a look below to see the path I've taken and the progress I've made.
 
-## 🚀 Projects & Learning Milestones
-
-| Project | Demo | Date | What I Learned |
-|--------|-------|------|----------------|
-| [Omnifood](https://github.com/radomskaia/omnifood/blob/main/README.md) | [link](https://radomskaia.github.io/omnifood/) | May 2024 | HTML, CSS (flexbox) |
-| [Natours](https://github.com/radomskaia/natours/blob/main/README.md) | [link](https://radomskaia.github.io/natours/) | June 2024 | CSS (grid), SCSS |
-| [Shelter](https://github.com/radomskaia/shelter) | [link](https://radomskaia.github.io/shelter/)  | Aug 2024 | Responsive design, semantic and pixel-perfect layout, first steps in JS |
-| [Css Meme Slider](https://github.com/radomskaia/cssMemeSlider) | [link](https://radomskaia.github.io/cssMemeSlider) | Sep 2024 | Pure CSS animations, CSS Combinators |
-| [Image Gallery](https://github.com/radomskaia/image-gallery) | [link](https://radomskaia.github.io/image-gallery/) | Sep 2024 | API, infinite scroll |
-| [Audio Player](https://github.com/radomskaia/audio-player) | [link](https://radomskaia.github.io/audio-player/) | Sep 2024 | Web Audio API, working with time updates and buffering, TouchEvent, KeyboardEvent |
-| [Christmas Shop](https://github.com/radomskaia/christmas-shop) | [link](https://radomskaia.github.io/christmas-shop/) | Nov 2024 | Valid semantic responsive web design, easy-to-maintain readable code, exporting styles and graphics from Figma, using JavaScript to implement the functionality specified in the task |
-| [Hangman](https://github.com/radomskaia/hangman)| [link](https://radomskaia.github.io/hangman/) | Dec 2024 | Game logic, key press tracking, dynamic DOM updates, visual feedback |
-| [Simon Says](https://github.com/radomskaia/simon-says)| [link](https://radomskaia.github.io/simon-says/) | Jan 2025 | Event handling, such as clicks and keyboard inputs |
-| [Nonograms](https://github.com/radomskaia/nonograms)| [link](https://radomskaia.github.io/nonograms/) | Feb 2025 | state management, game logic, local storage |
-| [Decision Making Tool](https://github.com/radomskaia/decision-making-tool)| [link](https://radomskaia.github.io/decision-making-tool/) | Mar 2025 | TypeScript, Canvas API, Data persistence, input validation |
-| [Async Race](https://github.com/radomskaia/async-race)| [link](https://radomskaia.github.io/async-race/) | Apr 2025 | TypeScript, dependency injection, async operations, Web API usage, component architecture |
-
 ## 📚 What I'm Learning Now
 
 - React
 - Vitest
+
+## 🚀 Projects & Learning Milestones
+
+| Project | Demo | Date | What I Learned |
+|--------|-------|------|----------------|
+| [Fun Chat](https://github.com/radomskaia/fun-chat)| [link](https://radomskaia.github.io/fun-chat/) | Apr 2025 | WebSocket |
+| [Async Race](https://github.com/radomskaia/async-race)| [link](https://radomskaia.github.io/async-race/) | Apr 2025 | TypeScript, dependency injection, async operations, Web API usage, component architecture |
+| [Decision Making Tool](https://github.com/radomskaia/decision-making-tool)| [link](https://radomskaia.github.io/decision-making-tool/) | Mar 2025 | TypeScript, Canvas API, Data persistence, input validation |
+| [Nonograms](https://github.com/radomskaia/nonograms)| [link](https://radomskaia.github.io/nonograms/) | Feb 2025 | state management, game logic, local storage |
+| [Simon Says](https://github.com/radomskaia/simon-says)| [link](https://radomskaia.github.io/simon-says/) | Jan 2025 | Event handling, such as clicks and keyboard inputs |
+| [Hangman](https://github.com/radomskaia/hangman)| [link](https://radomskaia.github.io/hangman/) | Dec 2024 | Game logic, key press tracking, dynamic DOM updates, visual feedback |
+| [Christmas Shop](https://github.com/radomskaia/christmas-shop) | [link](https://radomskaia.github.io/christmas-shop/) | Nov 2024 | Valid semantic responsive web design, easy-to-maintain readable code, exporting styles and graphics from Figma, using JavaScript to implement the functionality specified in the task |
+| [Audio Player](https://github.com/radomskaia/audio-player) | [link](https://radomskaia.github.io/audio-player/) | Sep 2024 | Web Audio API, working with time updates and buffering, TouchEvent, KeyboardEvent |
+| [Image Gallery](https://github.com/radomskaia/image-gallery) | [link](https://radomskaia.github.io/image-gallery/) | Sep 2024 | API, infinite scroll |
+| [Css Meme Slider](https://github.com/radomskaia/cssMemeSlider) | [link](https://radomskaia.github.io/cssMemeSlider) | Sep 2024 | Pure CSS animations, CSS Combinators |
+| [Shelter](https://github.com/radomskaia/shelter) | [link](https://radomskaia.github.io/shelter/)  | Aug 2024 | Responsive design, semantic and pixel-perfect layout, first steps in JS |
+| [Natours](https://github.com/radomskaia/natours/blob/main/README.md) | [link](https://radomskaia.github.io/natours/) | June 2024 | CSS (grid), SCSS |
+| [Omnifood](https://github.com/radomskaia/omnifood/blob/main/README.md) | [link](https://radomskaia.github.io/omnifood/) | May 2024 | HTML, CSS (flexbox) |
 
 ## 🛠️ Tech Stack
 
@@ -102,9 +103,11 @@ Take a look below to see the path I've taken and the progress I've made.
 
 ## 📚 Courses & Certifications
 
-- **RS School**: [JavaScript PRE-SCHOOL](https://app.rs.school/certificate/knwy0tsr), JavaScript/Front-End (2024–2025)
+- **RS School***: [JavaScript PRE-SCHOOL](https://app.rs.school/certificate/knwy0tsr), JavaScript/Front-End (2024–2025)
 - **Codecademy**: [Learn HTML](https://www.codecademy.com/profiles/radomskaia.a.i/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7), [Learn CSS](https://www.codecademy.com/profiles/radomskaia.a.i/certificates/9a5bb1fc45b4281af1fffec93b0aaf05), [Learn Sass](https://www.codecademy.com/profiles/radomskaia.a.i/certificates/eb1ffda40f347629dcef6de33d3f9741)
 - **Jonas Schmedtmann** (Udemy): Build Responsive Real-World Websites, Advanced CSS and Sass
+
+  \* at RS School I was an [Activist](https://rs.school/docs/en/rs-school-activist) helping other students.
 
 ## 🧠 Strengths
 
