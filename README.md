@@ -15,7 +15,7 @@ Take a look below to see the path I've taken and the progress I've made.
 - Vitest
 
 ## 🚀 Projects & Learning Milestones
-
+[![wakatime](https://wakatime.com/badge/user/aa371f55-8874-4731-8528-6319d7cffd6b.svg)](https://wakatime.com/@aa371f55-8874-4731-8528-6319d7cffd6b)
 | Project | Demo | Date | What I Learned |
 |--------|-------|------|----------------|
 | [Fun Chat](https://github.com/radomskaia/fun-chat)| [link](https://radomskaia.github.io/fun-chat/) | Apr 2025 | WebSocket |
