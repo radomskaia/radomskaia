@@ -4,14 +4,14 @@ Every single day I push myself forward — exploring new tools, solving challeng
 
 I'm currently looking for a junior front-end developer position where I can grow in a team and contribute to real-world projects.
 
-Today, I'm confident working with vanilla JavaScript, have solid TypeScript skills, and I'm currently diving into React.  
+Today, I'm confident working with vanilla JavaScript, have solid TypeScript skills, and I'm currently diving into Angular.  
 Over the past year, I've built numerous practical projects and tackled lots of coding tasks — and every one of them helped me grow.
 
 Take a look below to see the path I've taken and the progress I've made.
 
 ## 📚 What I'm Learning Now
 
-- React
+- Angular
 - Vitest
 
 ## 🚀 Projects & Learning Milestones
